@@ -1,0 +1,1 @@
+print("Vs code ile python çalışıyor")
